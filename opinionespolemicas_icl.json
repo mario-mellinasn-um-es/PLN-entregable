@@ -31,7 +31,9 @@
           "is_submitter": false,
           "name": "t1_mg1kj4m",
           "created_datetime": "2025-03-04T22:25:58+00:00",
-          "ZSL": "Apropiado"
+          "ZSL": "apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mg1ku9i",
@@ -45,7 +47,9 @@
           "is_submitter": true,
           "name": "t1_mg1ku9i",
           "created_datetime": "2025-03-04T22:27:29+00:00",
-          "ZSL": "No es asi de simple."
+          "ZSL": "No es asi de simple",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mg4vij0",
@@ -59,7 +63,9 @@
           "is_submitter": false,
           "name": "t1_mg4vij0",
           "created_datetime": "2025-03-05T12:20:48+00:00",
-          "ZSL": "Apropiado"
+          "ZSL": "Apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mgb4j6l",
@@ -73,7 +79,9 @@
           "is_submitter": false,
           "name": "t1_mgb4j6l",
           "created_datetime": "2025-03-06T10:42:37+00:00",
-          "ZSL": "Por favor, proporciona el texto que deseas que anal"
+          "ZSL": "Okay.\n",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mg5prer",
@@ -87,7 +95,9 @@
           "is_submitter": false,
           "name": "t1_mg5prer",
           "created_datetime": "2025-03-05T15:19:59+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mg3kbzh",
@@ -101,7 +111,9 @@
           "is_submitter": false,
           "name": "t1_mg3kbzh",
           "created_datetime": "2025-03-05T05:07:33+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mg6oii8",
@@ -115,7 +127,9 @@
           "is_submitter": false,
           "name": "t1_mg6oii8",
           "created_datetime": "2025-03-05T18:04:34+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mg3009q",
@@ -129,7 +143,9 @@
           "is_submitter": false,
           "name": "t1_mg3009q",
           "created_datetime": "2025-03-05T03:01:25+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mg3zu8u",
@@ -143,7 +159,9 @@
           "is_submitter": false,
           "name": "t1_mg3zu8u",
           "created_datetime": "2025-03-05T07:15:16+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mg43uzk",
@@ -157,7 +175,9 @@
           "is_submitter": false,
           "name": "t1_mg43uzk",
           "created_datetime": "2025-03-05T07:54:09+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mg2xoha",
@@ -171,7 +191,9 @@
           "is_submitter": false,
           "name": "t1_mg2xoha",
           "created_datetime": "2025-03-05T02:48:45+00:00",
-          "ZSL": "Apropiado"
+          "ZSL": "apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mg6xa1a",
@@ -185,7 +207,9 @@
           "is_submitter": false,
           "name": "t1_mg6xa1a",
           "created_datetime": "2025-03-05T18:44:58+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mg3lbhy",
@@ -199,7 +223,9 @@
           "is_submitter": false,
           "name": "t1_mg3lbhy",
           "created_datetime": "2025-03-05T05:14:39+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mg41seg",
@@ -213,7 +239,9 @@
           "is_submitter": false,
           "name": "t1_mg41seg",
           "created_datetime": "2025-03-05T07:34:01+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mg60rzd",
@@ -227,7 +255,9 @@
           "is_submitter": false,
           "name": "t1_mg60rzd",
           "created_datetime": "2025-03-05T16:13:25+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mg31k8p",
@@ -241,7 +271,9 @@
           "is_submitter": false,
           "name": "t1_mg31k8p",
           "created_datetime": "2025-03-05T03:10:02+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "Por favor, proporciona el texto que quieres que anal",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mg43bb7",
@@ -255,7 +287,9 @@
           "is_submitter": false,
           "name": "t1_mg43bb7",
           "created_datetime": "2025-03-05T07:48:47+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mg2if3v",
@@ -269,7 +303,9 @@
           "is_submitter": false,
           "name": "t1_mg2if3v",
           "created_datetime": "2025-03-05T01:24:30+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mg5jwxn",
@@ -283,7 +319,9 @@
           "is_submitter": false,
           "name": "t1_mg5jwxn",
           "created_datetime": "2025-03-05T14:50:09+00:00",
-          "ZSL": "Por favor, proporciona el texto que deseas que anal"
+          "ZSL": "Por favor, proporciona el texto que quieres que anal",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mg5pj8v",
@@ -297,7 +335,9 @@
           "is_submitter": false,
           "name": "t1_mg5pj8v",
           "created_datetime": "2025-03-05T15:18:53+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mg3qql4",
@@ -311,7 +351,9 @@
           "is_submitter": false,
           "name": "t1_mg3qql4",
           "created_datetime": "2025-03-05T05:55:33+00:00",
-          "ZSL": "Apropiado"
+          "ZSL": "Apropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mg4jmsn",
@@ -325,7 +367,9 @@
           "is_submitter": false,
           "name": "t1_mg4jmsn",
           "created_datetime": "2025-03-05T10:36:51+00:00",
-          "ZSL": "Apropiado"
+          "ZSL": "Apropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mgag8u7",
@@ -339,7 +383,9 @@
           "is_submitter": false,
           "name": "t1_mgag8u7",
           "created_datetime": "2025-03-06T06:39:32+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mg3qwr6",
@@ -353,7 +399,9 @@
           "is_submitter": false,
           "name": "t1_mg3qwr6",
           "created_datetime": "2025-03-05T05:56:56+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mg3f4yp",
@@ -367,7 +415,9 @@
           "is_submitter": false,
           "name": "t1_mg3f4yp",
           "created_datetime": "2025-03-05T04:31:43+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mg4szf6",
@@ -381,7 +431,9 @@
           "is_submitter": false,
           "name": "t1_mg4szf6",
           "created_datetime": "2025-03-05T12:01:20+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mg4u4rz",
@@ -395,7 +447,9 @@
           "is_submitter": false,
           "name": "t1_mg4u4rz",
           "created_datetime": "2025-03-05T12:10:20+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mg3cpo7",
@@ -409,7 +463,9 @@
           "is_submitter": false,
           "name": "t1_mg3cpo7",
           "created_datetime": "2025-03-05T04:15:58+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mg2d1o1",
@@ -423,7 +479,9 @@
           "is_submitter": false,
           "name": "t1_mg2d1o1",
           "created_datetime": "2025-03-05T00:55:27+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mg1pojh",
@@ -437,7 +495,9 @@
           "is_submitter": false,
           "name": "t1_mg1pojh",
           "created_datetime": "2025-03-04T22:51:14+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mg557rl",
@@ -451,7 +511,9 @@
           "is_submitter": false,
           "name": "t1_mg557rl",
           "created_datetime": "2025-03-05T13:26:29+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mg45bpf",
@@ -465,7 +527,9 @@
           "is_submitter": false,
           "name": "t1_mg45bpf",
           "created_datetime": "2025-03-05T08:08:40+00:00",
-          "ZSL": "Apropriado"
+          "ZSL": "Apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mgg1d0l",
@@ -479,7 +543,9 @@
           "is_submitter": false,
           "name": "t1_mgg1d0l",
           "created_datetime": "2025-03-07T02:44:59+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mg394tm",
@@ -493,7 +559,9 @@
           "is_submitter": false,
           "name": "t1_mg394tm",
           "created_datetime": "2025-03-05T03:53:52+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mg1qtmp",
@@ -507,7 +575,9 @@
           "is_submitter": true,
           "name": "t1_mg1qtmp",
           "created_datetime": "2025-03-04T22:56:58+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mg1qudu",
@@ -521,7 +591,9 @@
           "is_submitter": false,
           "name": "t1_mg1qudu",
           "created_datetime": "2025-03-04T22:57:04+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mg3eym0",
@@ -535,7 +607,9 @@
           "is_submitter": false,
           "name": "t1_mg3eym0",
           "created_datetime": "2025-03-05T04:30:32+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mg3p7oq",
@@ -549,7 +623,9 @@
           "is_submitter": false,
           "name": "t1_mg3p7oq",
           "created_datetime": "2025-03-05T05:43:34+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mg259qv",
@@ -563,7 +639,9 @@
           "is_submitter": false,
           "name": "t1_mg259qv",
           "created_datetime": "2025-03-05T00:13:53+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mg2xamf",
@@ -577,7 +655,9 @@
           "is_submitter": false,
           "name": "t1_mg2xamf",
           "created_datetime": "2025-03-05T02:46:39+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mg4klv2",
@@ -591,7 +671,9 @@
           "is_submitter": false,
           "name": "t1_mg4klv2",
           "created_datetime": "2025-03-05T10:46:38+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mg2sjya",
@@ -605,7 +687,9 @@
           "is_submitter": false,
           "name": "t1_mg2sjya",
           "created_datetime": "2025-03-05T02:20:23+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mg2s5wu",
@@ -619,7 +703,9 @@
           "is_submitter": false,
           "name": "t1_mg2s5wu",
           "created_datetime": "2025-03-05T02:18:12+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mg2xbbv",
@@ -633,7 +719,9 @@
           "is_submitter": false,
           "name": "t1_mg2xbbv",
           "created_datetime": "2025-03-05T02:46:46+00:00",
-          "ZSL": "Apropiado"
+          "ZSL": "apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mg2p2is",
@@ -647,7 +735,9 @@
           "is_submitter": false,
           "name": "t1_mg2p2is",
           "created_datetime": "2025-03-05T02:00:53+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mg582uz",
@@ -661,7 +751,9 @@
           "is_submitter": false,
           "name": "t1_mg582uz",
           "created_datetime": "2025-03-05T13:43:47+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mgbhzmo",
@@ -675,7 +767,9 @@
           "is_submitter": false,
           "name": "t1_mgbhzmo",
           "created_datetime": "2025-03-06T12:35:54+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mg2kl6l",
@@ -689,7 +783,9 @@
           "is_submitter": false,
           "name": "t1_mg2kl6l",
           "created_datetime": "2025-03-05T01:36:15+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mg3hrkj",
@@ -703,7 +799,9 @@
           "is_submitter": false,
           "name": "t1_mg3hrkj",
           "created_datetime": "2025-03-05T04:49:31+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mg3pt9g",
@@ -717,7 +815,9 @@
           "is_submitter": false,
           "name": "t1_mg3pt9g",
           "created_datetime": "2025-03-05T05:48:15+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         }
       ]
     },
@@ -748,7 +848,9 @@
           "is_submitter": false,
           "name": "t1_n0c2fu9",
           "created_datetime": "2025-06-29T01:05:58+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n02fawx",
@@ -762,7 +864,9 @@
           "is_submitter": false,
           "name": "t1_n02fawx",
           "created_datetime": "2025-06-27T14:04:38+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "n02gadq",
@@ -776,7 +880,9 @@
           "is_submitter": false,
           "name": "t1_n02gadq",
           "created_datetime": "2025-06-27T14:09:38+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n30kb7h",
@@ -790,7 +896,9 @@
           "is_submitter": false,
           "name": "t1_n30kb7h",
           "created_datetime": "2025-07-14T03:28:17+00:00",
-          "ZSL": "Entendido. Por favor, proporciona el texto que"
+          "ZSL": "Por favor, dame el texto que quieres que anal",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "n0222kj",
@@ -804,7 +912,9 @@
           "is_submitter": false,
           "name": "t1_n0222kj",
           "created_datetime": "2025-06-27T12:52:40+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n02ahrl",
@@ -818,7 +928,9 @@
           "is_submitter": false,
           "name": "t1_n02ahrl",
           "created_datetime": "2025-06-27T13:39:47+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n02fkdz",
@@ -832,7 +944,9 @@
           "is_submitter": false,
           "name": "t1_n02fkdz",
           "created_datetime": "2025-06-27T14:06:00+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n034tw0",
@@ -846,7 +960,9 @@
           "is_submitter": false,
           "name": "t1_n034tw0",
           "created_datetime": "2025-06-27T16:06:44+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n02ath6",
@@ -860,7 +976,9 @@
           "is_submitter": false,
           "name": "t1_n02ath6",
           "created_datetime": "2025-06-27T13:41:30+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n044a71",
@@ -874,7 +992,9 @@
           "is_submitter": false,
           "name": "t1_n044a71",
           "created_datetime": "2025-06-27T18:53:32+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n057zc7",
@@ -888,7 +1008,9 @@
           "is_submitter": false,
           "name": "t1_n057zc7",
           "created_datetime": "2025-06-27T22:17:35+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n06h4rg",
@@ -902,7 +1024,9 @@
           "is_submitter": false,
           "name": "t1_n06h4rg",
           "created_datetime": "2025-06-28T02:52:40+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "n032gzc",
@@ -916,7 +1040,9 @@
           "is_submitter": false,
           "name": "t1_n032gzc",
           "created_datetime": "2025-06-27T15:55:41+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n04fklz",
@@ -930,7 +1056,9 @@
           "is_submitter": false,
           "name": "t1_n04fklz",
           "created_datetime": "2025-06-27T19:49:30+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n04wwtq",
@@ -944,7 +1072,9 @@
           "is_submitter": false,
           "name": "t1_n04wwtq",
           "created_datetime": "2025-06-27T21:17:27+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n04jhnm",
@@ -958,7 +1088,9 @@
           "is_submitter": false,
           "name": "t1_n04jhnm",
           "created_datetime": "2025-06-27T20:09:18+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n0d7xr6",
@@ -972,7 +1104,9 @@
           "is_submitter": false,
           "name": "t1_n0d7xr6",
           "created_datetime": "2025-06-29T06:14:54+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "n03rhuh",
@@ -986,7 +1120,9 @@
           "is_submitter": false,
           "name": "t1_n03rhuh",
           "created_datetime": "2025-06-27T17:52:31+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n01t2fc",
@@ -1000,7 +1136,9 @@
           "is_submitter": false,
           "name": "t1_n01t2fc",
           "created_datetime": "2025-06-27T11:56:01+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n051lhg",
@@ -1014,7 +1152,9 @@
           "is_submitter": false,
           "name": "t1_n051lhg",
           "created_datetime": "2025-06-27T21:42:26+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n01y9sm",
@@ -1028,7 +1168,9 @@
           "is_submitter": false,
           "name": "t1_n01y9sm",
           "created_datetime": "2025-06-27T12:29:39+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n03e3km",
@@ -1042,7 +1184,9 @@
           "is_submitter": false,
           "name": "t1_n03e3km",
           "created_datetime": "2025-06-27T16:50:25+00:00",
-          "ZSL": "Apropiado"
+          "ZSL": "Apropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n029irg",
@@ -1056,7 +1200,9 @@
           "is_submitter": false,
           "name": "t1_n029irg",
           "created_datetime": "2025-06-27T13:34:35+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n02zbwe",
@@ -1070,7 +1216,9 @@
           "is_submitter": false,
           "name": "t1_n02zbwe",
           "created_datetime": "2025-06-27T15:41:11+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n039huv",
@@ -1084,7 +1232,9 @@
           "is_submitter": false,
           "name": "t1_n039huv",
           "created_datetime": "2025-06-27T16:28:42+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n03e9do",
@@ -1098,7 +1248,9 @@
           "is_submitter": false,
           "name": "t1_n03e9do",
           "created_datetime": "2025-06-27T16:51:12+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "n039skg",
@@ -1112,7 +1264,9 @@
           "is_submitter": false,
           "name": "t1_n039skg",
           "created_datetime": "2025-06-27T16:30:07+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n02t8m9",
@@ -1126,7 +1280,9 @@
           "is_submitter": false,
           "name": "t1_n02t8m9",
           "created_datetime": "2025-06-27T15:12:23+00:00",
-          "ZSL": "Apropiado"
+          "ZSL": "apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "n052ka8",
@@ -1140,7 +1296,9 @@
           "is_submitter": false,
           "name": "t1_n052ka8",
           "created_datetime": "2025-06-27T21:47:41+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n04l2qv",
@@ -1154,7 +1312,9 @@
           "is_submitter": false,
           "name": "t1_n04l2qv",
           "created_datetime": "2025-06-27T20:17:16+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n06gu7m",
@@ -1168,7 +1328,9 @@
           "is_submitter": false,
           "name": "t1_n06gu7m",
           "created_datetime": "2025-06-28T02:50:38+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n03xp5o",
@@ -1182,7 +1344,9 @@
           "is_submitter": false,
           "name": "t1_n03xp5o",
           "created_datetime": "2025-06-27T18:21:43+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n3k2rmv",
@@ -1196,7 +1360,9 @@
           "is_submitter": false,
           "name": "t1_n3k2rmv",
           "created_datetime": "2025-07-17T02:00:18+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "n03cxxm",
@@ -1210,7 +1376,9 @@
           "is_submitter": false,
           "name": "t1_n03cxxm",
           "created_datetime": "2025-06-27T16:44:59+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n02srev",
@@ -1224,7 +1392,9 @@
           "is_submitter": false,
           "name": "t1_n02srev",
           "created_datetime": "2025-06-27T15:10:05+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n03abkp",
@@ -1238,7 +1408,9 @@
           "is_submitter": false,
           "name": "t1_n03abkp",
           "created_datetime": "2025-06-27T16:32:37+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n02jmuh",
@@ -1252,7 +1424,9 @@
           "is_submitter": false,
           "name": "t1_n02jmuh",
           "created_datetime": "2025-06-27T14:26:02+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "n06pdn5",
@@ -1266,7 +1440,9 @@
           "is_submitter": false,
           "name": "t1_n06pdn5",
           "created_datetime": "2025-06-28T03:51:48+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n03cpn0",
@@ -1280,7 +1456,9 @@
           "is_submitter": false,
           "name": "t1_n03cpn0",
           "created_datetime": "2025-06-27T16:43:54+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "n02t7i0",
@@ -1294,7 +1472,9 @@
           "is_submitter": false,
           "name": "t1_n02t7i0",
           "created_datetime": "2025-06-27T15:12:14+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "Apropriado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "n02xcde",
@@ -1308,7 +1488,9 @@
           "is_submitter": false,
           "name": "t1_n02xcde",
           "created_datetime": "2025-06-27T15:31:52+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n02ci4z",
@@ -1322,7 +1504,9 @@
           "is_submitter": false,
           "name": "t1_n02ci4z",
           "created_datetime": "2025-06-27T13:50:18+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n02te0s",
@@ -1336,7 +1520,9 @@
           "is_submitter": false,
           "name": "t1_n02te0s",
           "created_datetime": "2025-06-27T15:13:06+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n01vk2z",
@@ -1350,7 +1536,9 @@
           "is_submitter": false,
           "name": "t1_n01vk2z",
           "created_datetime": "2025-06-27T12:12:30+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n03yht7",
@@ -1364,7 +1552,9 @@
           "is_submitter": false,
           "name": "t1_n03yht7",
           "created_datetime": "2025-06-27T18:25:31+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n01wnum",
@@ -1378,7 +1568,9 @@
           "is_submitter": false,
           "name": "t1_n01wnum",
           "created_datetime": "2025-06-27T12:19:35+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "n051yts",
@@ -1392,7 +1584,9 @@
           "is_submitter": false,
           "name": "t1_n051yts",
           "created_datetime": "2025-06-27T21:44:27+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "n03dw0p",
@@ -1406,7 +1600,9 @@
           "is_submitter": false,
           "name": "t1_n03dw0p",
           "created_datetime": "2025-06-27T16:49:26+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n01w5ct",
@@ -1420,7 +1616,9 @@
           "is_submitter": false,
           "name": "t1_n01w5ct",
           "created_datetime": "2025-06-27T12:16:18+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n020tyi",
@@ -1434,7 +1632,9 @@
           "is_submitter": false,
           "name": "t1_n020tyi",
           "created_datetime": "2025-06-27T12:45:24+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         }
       ]
     },
@@ -1465,7 +1665,9 @@
           "is_submitter": false,
           "name": "t1_meqfog9",
           "created_datetime": "2025-02-25T17:29:28+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "meq1hdv",
@@ -1479,7 +1681,9 @@
           "is_submitter": false,
           "name": "t1_meq1hdv",
           "created_datetime": "2025-02-25T16:22:05+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mep714j",
@@ -1493,7 +1697,9 @@
           "is_submitter": false,
           "name": "t1_mep714j",
           "created_datetime": "2025-02-25T13:41:59+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mepvlxm",
@@ -1507,7 +1713,9 @@
           "is_submitter": false,
           "name": "t1_mepvlxm",
           "created_datetime": "2025-02-25T15:53:31+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "meqsh8m",
@@ -1521,7 +1729,9 @@
           "is_submitter": false,
           "name": "t1_meqsh8m",
           "created_datetime": "2025-02-25T18:29:35+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "meqra7v",
@@ -1535,7 +1745,9 @@
           "is_submitter": false,
           "name": "t1_meqra7v",
           "created_datetime": "2025-02-25T18:24:02+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mepuerl",
@@ -1549,7 +1761,9 @@
           "is_submitter": false,
           "name": "t1_mepuerl",
           "created_datetime": "2025-02-25T15:47:42+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mep7e32",
@@ -1563,7 +1777,9 @@
           "is_submitter": true,
           "name": "t1_mep7e32",
           "created_datetime": "2025-02-25T13:44:07+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mep7f0b",
@@ -1577,7 +1793,9 @@
           "is_submitter": false,
           "name": "t1_mep7f0b",
           "created_datetime": "2025-02-25T13:44:17+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mers39m",
@@ -1591,7 +1809,9 @@
           "is_submitter": false,
           "name": "t1_mers39m",
           "created_datetime": "2025-02-25T21:15:47+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "meriz44",
@@ -1605,7 +1825,9 @@
           "is_submitter": false,
           "name": "t1_meriz44",
           "created_datetime": "2025-02-25T20:33:33+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "merhnhc",
@@ -1619,7 +1841,9 @@
           "is_submitter": false,
           "name": "t1_merhnhc",
           "created_datetime": "2025-02-25T20:27:17+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mes9336",
@@ -1633,7 +1857,9 @@
           "is_submitter": false,
           "name": "t1_mes9336",
           "created_datetime": "2025-02-25T22:36:46+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mfc14hf",
@@ -1647,7 +1873,9 @@
           "is_submitter": false,
           "name": "t1_mfc14hf",
           "created_datetime": "2025-02-28T22:33:48+00:00",
-          "ZSL": "Por favor, proporciona el texto que quieres que anal"
+          "ZSL": "Por favor, dame el texto para que pueda analizar",
+          "FSL": "Por favor, proporciona el texto que deseas que clas",
+          "CoT": "Por favor, proporciona el texto que deseas que analice.\n"
         },
         {
           "id": "mepfroq",
@@ -1661,7 +1889,9 @@
           "is_submitter": false,
           "name": "t1_mepfroq",
           "created_datetime": "2025-02-25T14:32:14+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mevqotg",
@@ -1675,7 +1905,9 @@
           "is_submitter": false,
           "name": "t1_mevqotg",
           "created_datetime": "2025-02-26T13:25:14+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mex6dpo",
@@ -1689,7 +1921,9 @@
           "is_submitter": false,
           "name": "t1_mex6dpo",
           "created_datetime": "2025-02-26T17:46:18+00:00",
-          "ZSL": "Por favor, dame el texto.\n"
+          "ZSL": "No tengo información sobre el texto.\n",
+          "FSL": "No he dicho lo contrario.",
+          "CoT": "Apropiado"
         },
         {
           "id": "mevz92s",
@@ -1703,7 +1937,9 @@
           "is_submitter": false,
           "name": "t1_mevz92s",
           "created_datetime": "2025-02-26T14:14:57+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mepxj9r",
@@ -1717,7 +1953,9 @@
           "is_submitter": false,
           "name": "t1_mepxj9r",
           "created_datetime": "2025-02-25T16:02:55+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mepgdg4",
@@ -1731,7 +1969,9 @@
           "is_submitter": false,
           "name": "t1_mepgdg4",
           "created_datetime": "2025-02-25T14:35:34+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "meq1m74",
@@ -1745,7 +1985,9 @@
           "is_submitter": false,
           "name": "t1_meq1m74",
           "created_datetime": "2025-02-25T16:22:43+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "meungml",
@@ -1759,7 +2001,9 @@
           "is_submitter": false,
           "name": "t1_meungml",
           "created_datetime": "2025-02-26T07:40:26+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Si! Ya está pasando. No te diste",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mepa4zr",
@@ -1773,7 +2017,9 @@
           "is_submitter": false,
           "name": "t1_mepa4zr",
           "created_datetime": "2025-02-25T14:00:21+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mepafaj",
@@ -1787,7 +2033,9 @@
           "is_submitter": false,
           "name": "t1_mepafaj",
           "created_datetime": "2025-02-25T14:02:03+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mepj89t",
@@ -1801,7 +2049,9 @@
           "is_submitter": false,
           "name": "t1_mepj89t",
           "created_datetime": "2025-02-25T14:50:58+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mepmd8n",
@@ -1815,7 +2065,9 @@
           "is_submitter": false,
           "name": "t1_mepmd8n",
           "created_datetime": "2025-02-25T15:07:31+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "meqv4d0",
@@ -1829,7 +2081,9 @@
           "is_submitter": false,
           "name": "t1_meqv4d0",
           "created_datetime": "2025-02-25T18:41:55+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mepam5n",
@@ -1843,7 +2097,9 @@
           "is_submitter": false,
           "name": "t1_mepam5n",
           "created_datetime": "2025-02-25T14:03:11+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "meq7m8s",
@@ -1857,7 +2113,9 @@
           "is_submitter": false,
           "name": "t1_meq7m8s",
           "created_datetime": "2025-02-25T16:51:19+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mev0jb8",
@@ -1871,7 +2129,9 @@
           "is_submitter": false,
           "name": "t1_mev0jb8",
           "created_datetime": "2025-02-26T09:54:04+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mepuqoa",
@@ -1885,7 +2145,9 @@
           "is_submitter": false,
           "name": "t1_mepuqoa",
           "created_datetime": "2025-02-25T15:49:17+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "meshutn",
@@ -1899,7 +2161,9 @@
           "is_submitter": false,
           "name": "t1_meshutn",
           "created_datetime": "2025-02-25T23:22:01+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mepmlkh",
@@ -1913,7 +2177,9 @@
           "is_submitter": false,
           "name": "t1_mepmlkh",
           "created_datetime": "2025-02-25T15:08:43+00:00",
-          "ZSL": "Necesito el texto para poder determinar si es inap"
+          "ZSL": "Entendido.\n",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mepb9qr",
@@ -1927,7 +2193,9 @@
           "is_submitter": false,
           "name": "t1_mepb9qr",
           "created_datetime": "2025-02-25T14:07:00+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mew09io",
@@ -1941,7 +2209,9 @@
           "is_submitter": false,
           "name": "t1_mew09io",
           "created_datetime": "2025-02-26T14:20:34+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mepbop0",
@@ -1955,7 +2225,9 @@
           "is_submitter": false,
           "name": "t1_mepbop0",
           "created_datetime": "2025-02-25T14:09:23+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "apropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "meqcy5n",
@@ -1969,7 +2241,9 @@
           "is_submitter": false,
           "name": "t1_meqcy5n",
           "created_datetime": "2025-02-25T17:16:33+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mepc1bd",
@@ -1983,7 +2257,9 @@
           "is_submitter": false,
           "name": "t1_mepc1bd",
           "created_datetime": "2025-02-25T14:11:22+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mevejup",
@@ -1997,7 +2273,9 @@
           "is_submitter": false,
           "name": "t1_mevejup",
           "created_datetime": "2025-02-26T12:02:44+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "meyjv9y",
@@ -2011,7 +2289,9 @@
           "is_submitter": false,
           "name": "t1_meyjv9y",
           "created_datetime": "2025-02-26T21:32:43+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "meu9lef",
@@ -2025,7 +2305,9 @@
           "is_submitter": false,
           "name": "t1_meu9lef",
           "created_datetime": "2025-02-26T05:37:56+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mepcest",
@@ -2039,7 +2321,9 @@
           "is_submitter": false,
           "name": "t1_mepcest",
           "created_datetime": "2025-02-25T14:13:30+00:00",
-          "ZSL": "Entendido. Por favor, proporciona el texto que"
+          "ZSL": "De acuerdo. Por favor, proporciona el texto para",
+          "FSL": "Texto: \"La raza negra es una amenaza para",
+          "CoT": "Inapropiado"
         },
         {
           "id": "metp0wi",
@@ -2053,7 +2337,9 @@
           "is_submitter": false,
           "name": "t1_metp0wi",
           "created_datetime": "2025-02-26T03:19:55+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mepd0d1",
@@ -2067,7 +2353,9 @@
           "is_submitter": false,
           "name": "t1_mepd0d1",
           "created_datetime": "2025-02-25T14:16:54+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "meqzwfa",
@@ -2081,7 +2369,9 @@
           "is_submitter": false,
           "name": "t1_meqzwfa",
           "created_datetime": "2025-02-25T19:04:08+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mepd5h9",
@@ -2095,7 +2385,9 @@
           "is_submitter": false,
           "name": "t1_mepd5h9",
           "created_datetime": "2025-02-25T14:17:42+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "El texto es inapropiado.\n"
         },
         {
           "id": "mera2yg",
@@ -2109,7 +2401,9 @@
           "is_submitter": false,
           "name": "t1_mera2yg",
           "created_datetime": "2025-02-25T19:51:44+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "met11w9",
@@ -2123,7 +2417,9 @@
           "is_submitter": false,
           "name": "t1_met11w9",
           "created_datetime": "2025-02-26T01:06:01+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "merwgv3",
@@ -2137,7 +2433,9 @@
           "is_submitter": false,
           "name": "t1_merwgv3",
           "created_datetime": "2025-02-25T21:36:08+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mepuqui",
@@ -2151,7 +2449,9 @@
           "is_submitter": false,
           "name": "t1_mepuqui",
           "created_datetime": "2025-02-25T15:49:19+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         }
       ]
     },
@@ -2182,7 +2482,9 @@
           "is_submitter": false,
           "name": "t1_m6jm6bx",
           "created_datetime": "2025-01-11T07:28:47+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "m6iful2",
@@ -2196,7 +2498,9 @@
           "is_submitter": false,
           "name": "t1_m6iful2",
           "created_datetime": "2025-01-11T02:13:21+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m684kok",
@@ -2210,7 +2514,9 @@
           "is_submitter": false,
           "name": "t1_m684kok",
           "created_datetime": "2025-01-09T14:04:45+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "Apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "m697g52",
@@ -2224,7 +2530,9 @@
           "is_submitter": false,
           "name": "t1_m697g52",
           "created_datetime": "2025-01-09T17:25:56+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m6eakmz",
@@ -2238,7 +2546,9 @@
           "is_submitter": false,
           "name": "t1_m6eakmz",
           "created_datetime": "2025-01-10T13:11:24+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "def clasificar_inapropiado(texto",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m6leq0p",
@@ -2252,7 +2562,9 @@
           "is_submitter": false,
           "name": "t1_m6leq0p",
           "created_datetime": "2025-01-11T16:20:22+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m6srqv9",
@@ -2266,7 +2578,9 @@
           "is_submitter": false,
           "name": "t1_m6srqv9",
           "created_datetime": "2025-01-12T20:01:22+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m6a3ozn",
@@ -2280,7 +2594,9 @@
           "is_submitter": false,
           "name": "t1_m6a3ozn",
           "created_datetime": "2025-01-09T20:00:57+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m67duih",
@@ -2294,7 +2610,9 @@
           "is_submitter": false,
           "name": "t1_m67duih",
           "created_datetime": "2025-01-09T10:35:11+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "m66bvn4",
@@ -2308,7 +2626,9 @@
           "is_submitter": true,
           "name": "t1_m66bvn4",
           "created_datetime": "2025-01-09T04:32:57+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m695nsd",
@@ -2322,7 +2642,9 @@
           "is_submitter": false,
           "name": "t1_m695nsd",
           "created_datetime": "2025-01-09T17:17:16+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m66tyhu",
@@ -2336,7 +2658,9 @@
           "is_submitter": false,
           "name": "t1_m66tyhu",
           "created_datetime": "2025-01-09T07:04:30+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m67trcd",
@@ -2350,7 +2674,9 @@
           "is_submitter": false,
           "name": "t1_m67trcd",
           "created_datetime": "2025-01-09T12:54:33+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m66tt3s",
@@ -2364,7 +2690,9 @@
           "is_submitter": false,
           "name": "t1_m66tt3s",
           "created_datetime": "2025-01-09T07:03:03+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "m68qvlr",
@@ -2378,7 +2706,9 @@
           "is_submitter": false,
           "name": "t1_m68qvlr",
           "created_datetime": "2025-01-09T16:05:04+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "m66wpkm",
@@ -2392,7 +2722,9 @@
           "is_submitter": false,
           "name": "t1_m66wpkm",
           "created_datetime": "2025-01-09T07:31:46+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "m69atdv",
@@ -2406,7 +2738,9 @@
           "is_submitter": false,
           "name": "t1_m69atdv",
           "created_datetime": "2025-01-09T17:42:08+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m68ub97",
@@ -2420,7 +2754,9 @@
           "is_submitter": false,
           "name": "t1_m68ub97",
           "created_datetime": "2025-01-09T16:22:07+00:00",
-          "ZSL": "Apropiado"
+          "ZSL": "apropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m6eisr1",
@@ -2434,7 +2770,9 @@
           "is_submitter": false,
           "name": "t1_m6eisr1",
           "created_datetime": "2025-01-10T14:03:17+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "m6wg5rv",
@@ -2448,7 +2786,9 @@
           "is_submitter": false,
           "name": "t1_m6wg5rv",
           "created_datetime": "2025-01-13T10:39:43+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m6x3udx",
@@ -2462,7 +2802,9 @@
           "is_submitter": false,
           "name": "t1_m6x3udx",
           "created_datetime": "2025-01-13T13:52:09+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "m6f18qs",
@@ -2476,7 +2818,9 @@
           "is_submitter": false,
           "name": "t1_m6f18qs",
           "created_datetime": "2025-01-10T15:43:53+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m6dkory",
@@ -2490,7 +2834,9 @@
           "is_submitter": false,
           "name": "t1_m6dkory",
           "created_datetime": "2025-01-10T09:16:36+00:00",
-          "ZSL": "Apropiado"
+          "ZSL": "apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "m67tgg6",
@@ -2504,7 +2850,9 @@
           "is_submitter": false,
           "name": "t1_m67tgg6",
           "created_datetime": "2025-01-09T12:52:23+00:00",
-          "ZSL": "Apropriado"
+          "ZSL": "apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "m6hemy5",
@@ -2518,7 +2866,9 @@
           "is_submitter": false,
           "name": "t1_m6hemy5",
           "created_datetime": "2025-01-10T22:43:03+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m6kphp0",
@@ -2532,7 +2882,9 @@
           "is_submitter": false,
           "name": "t1_m6kphp0",
           "created_datetime": "2025-01-11T13:50:48+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m709y70",
@@ -2546,7 +2898,9 @@
           "is_submitter": false,
           "name": "t1_m709y70",
           "created_datetime": "2025-01-13T23:31:06+00:00",
-          "ZSL": "Apropiado"
+          "ZSL": "Apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "m6vk3tf",
@@ -2560,7 +2914,9 @@
           "is_submitter": false,
           "name": "t1_m6vk3tf",
           "created_datetime": "2025-01-13T05:17:23+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "m6hw1sh",
@@ -2574,7 +2930,9 @@
           "is_submitter": false,
           "name": "t1_m6hw1sh",
           "created_datetime": "2025-01-11T00:20:42+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "m6u43s5",
@@ -2588,7 +2946,9 @@
           "is_submitter": false,
           "name": "t1_m6u43s5",
           "created_datetime": "2025-01-13T00:03:10+00:00",
-          "ZSL": "Por favor, proporciona el texto que quieres que anal"
+          "ZSL": "Por favor, dame el texto que quieres que anal",
+          "FSL": "Texto: La gente es tan tóxica,",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m6aiq70",
@@ -2602,7 +2962,9 @@
           "is_submitter": false,
           "name": "t1_m6aiq70",
           "created_datetime": "2025-01-09T21:14:20+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "m6wz2zy",
@@ -2616,7 +2978,9 @@
           "is_submitter": false,
           "name": "t1_m6wz2zy",
           "created_datetime": "2025-01-13T13:20:45+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "m695bt0",
@@ -2630,7 +2994,9 @@
           "is_submitter": false,
           "name": "t1_m695bt0",
           "created_datetime": "2025-01-09T17:15:38+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m66w6pu",
@@ -2644,7 +3010,9 @@
           "is_submitter": false,
           "name": "t1_m66w6pu",
           "created_datetime": "2025-01-09T07:26:29+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m6b0o8y",
@@ -2658,7 +3026,9 @@
           "is_submitter": false,
           "name": "t1_m6b0o8y",
           "created_datetime": "2025-01-09T22:44:36+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m6cfj0c",
@@ -2672,7 +3042,9 @@
           "is_submitter": false,
           "name": "t1_m6cfj0c",
           "created_datetime": "2025-01-10T03:30:52+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "m69bx8s",
@@ -2686,7 +3058,9 @@
           "is_submitter": false,
           "name": "t1_m69bx8s",
           "created_datetime": "2025-01-09T17:47:24+00:00",
-          "ZSL": "De acuerdo. Por favor, proporciona el texto."
+          "ZSL": "Entendido. Estoy listo para analizar el texto y",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m6c4mry",
@@ -2700,7 +3074,9 @@
           "is_submitter": false,
           "name": "t1_m6c4mry",
           "created_datetime": "2025-01-10T02:26:53+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m6ec6oj",
@@ -2714,7 +3090,9 @@
           "is_submitter": false,
           "name": "t1_m6ec6oj",
           "created_datetime": "2025-01-10T13:22:08+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "m6ibm5b",
@@ -2728,7 +3106,9 @@
           "is_submitter": false,
           "name": "t1_m6ibm5b",
           "created_datetime": "2025-01-11T01:48:45+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "m68djdo",
@@ -2742,7 +3122,9 @@
           "is_submitter": false,
           "name": "t1_m68djdo",
           "created_datetime": "2025-01-09T14:56:15+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "m6wyo84",
@@ -2756,7 +3138,9 @@
           "is_submitter": false,
           "name": "t1_m6wyo84",
           "created_datetime": "2025-01-13T13:17:53+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m66hm5j",
@@ -2770,7 +3154,9 @@
           "is_submitter": false,
           "name": "t1_m66hm5j",
           "created_datetime": "2025-01-09T05:15:56+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "m679011",
@@ -2784,7 +3170,9 @@
           "is_submitter": false,
           "name": "t1_m679011",
           "created_datetime": "2025-01-09T09:43:21+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "m66vy72",
@@ -2798,7 +3186,9 @@
           "is_submitter": false,
           "name": "t1_m66vy72",
           "created_datetime": "2025-01-09T07:24:04+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m6ifsma",
@@ -2812,7 +3202,9 @@
           "is_submitter": false,
           "name": "t1_m6ifsma",
           "created_datetime": "2025-01-11T02:13:03+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m66y35j",
@@ -2826,7 +3218,9 @@
           "is_submitter": false,
           "name": "t1_m66y35j",
           "created_datetime": "2025-01-09T07:45:58+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "m6kt4rb",
@@ -2840,7 +3234,9 @@
           "is_submitter": false,
           "name": "t1_m6kt4rb",
           "created_datetime": "2025-01-11T14:15:03+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "m69ihx8",
@@ -2854,7 +3250,9 @@
           "is_submitter": false,
           "name": "t1_m69ihx8",
           "created_datetime": "2025-01-09T18:18:59+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "m69ii0w",
@@ -2868,7 +3266,9 @@
           "is_submitter": false,
           "name": "t1_m69ii0w",
           "created_datetime": "2025-01-09T18:19:00+00:00",
-          "ZSL": "De acuerdo. Por favor, proporciona el texto que"
+          "ZSL": "De acuerdo. Por favor, proporciona el texto.",
+          "FSL": "Texto: Si todos los niños son iguales, todos",
+          "CoT": "Inapropiado"
         }
       ]
     },
@@ -2899,7 +3299,9 @@
           "is_submitter": false,
           "name": "t1_n0z6pzt",
           "created_datetime": "2025-07-02T17:22:27+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n0y4uck",
@@ -2913,7 +3315,9 @@
           "is_submitter": false,
           "name": "t1_n0y4uck",
           "created_datetime": "2025-07-02T14:24:09+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n0yjoe4",
@@ -2927,7 +3331,9 @@
           "is_submitter": false,
           "name": "t1_n0yjoe4",
           "created_datetime": "2025-07-02T15:34:34+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n10xbkw",
@@ -2941,7 +3347,9 @@
           "is_submitter": false,
           "name": "t1_n10xbkw",
           "created_datetime": "2025-07-02T22:33:21+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n15mkvq",
@@ -2955,7 +3363,9 @@
           "is_submitter": false,
           "name": "t1_n15mkvq",
           "created_datetime": "2025-07-03T16:52:47+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n0y2a1r",
@@ -2969,7 +3379,9 @@
           "is_submitter": false,
           "name": "t1_n0y2a1r",
           "created_datetime": "2025-07-02T14:11:35+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n0z8kst",
@@ -2983,7 +3395,9 @@
           "is_submitter": false,
           "name": "t1_n0z8kst",
           "created_datetime": "2025-07-02T17:31:09+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n0xpgdy",
@@ -2997,7 +3411,9 @@
           "is_submitter": false,
           "name": "t1_n0xpgdy",
           "created_datetime": "2025-07-02T13:02:59+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n0zrft6",
@@ -3011,7 +3427,9 @@
           "is_submitter": false,
           "name": "t1_n0zrft6",
           "created_datetime": "2025-07-02T19:02:41+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "n0ypvai",
@@ -3025,7 +3443,9 @@
           "is_submitter": false,
           "name": "t1_n0ypvai",
           "created_datetime": "2025-07-02T16:03:01+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n14nd9n",
@@ -3039,7 +3459,9 @@
           "is_submitter": false,
           "name": "t1_n14nd9n",
           "created_datetime": "2025-07-03T14:04:46+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Texto: Sí la hay pero no es en",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n0zfs5h",
@@ -3053,7 +3475,9 @@
           "is_submitter": false,
           "name": "t1_n0zfs5h",
           "created_datetime": "2025-07-02T18:05:02+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n0z2kqv",
@@ -3067,7 +3491,9 @@
           "is_submitter": false,
           "name": "t1_n0z2kqv",
           "created_datetime": "2025-07-02T17:03:20+00:00",
-          "ZSL": "De acuerdo.\n"
+          "ZSL": "De acuerdo.\n",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n0z6f5w",
@@ -3081,7 +3507,9 @@
           "is_submitter": false,
           "name": "t1_n0z6f5w",
           "created_datetime": "2025-07-02T17:21:04+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n13inh3",
@@ -3095,7 +3523,9 @@
           "is_submitter": false,
           "name": "t1_n13inh3",
           "created_datetime": "2025-07-03T09:23:11+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n12v8u4",
@@ -3109,7 +3539,9 @@
           "is_submitter": false,
           "name": "t1_n12v8u4",
           "created_datetime": "2025-07-03T05:43:03+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n12cywt",
@@ -3123,7 +3555,9 @@
           "is_submitter": false,
           "name": "t1_n12cywt",
           "created_datetime": "2025-07-03T03:26:00+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n10iwdg",
@@ -3137,7 +3571,9 @@
           "is_submitter": false,
           "name": "t1_n10iwdg",
           "created_datetime": "2025-07-02T21:17:46+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "n0xre53",
@@ -3151,7 +3587,9 @@
           "is_submitter": false,
           "name": "t1_n0xre53",
           "created_datetime": "2025-07-02T13:13:59+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Apropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "n11jqvc",
@@ -3165,7 +3603,9 @@
           "is_submitter": false,
           "name": "t1_n11jqvc",
           "created_datetime": "2025-07-03T00:35:26+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "n101sez",
@@ -3179,7 +3619,9 @@
           "is_submitter": false,
           "name": "t1_n101sez",
           "created_datetime": "2025-07-02T19:54:55+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "n0zi4dq",
@@ -3193,7 +3635,9 @@
           "is_submitter": false,
           "name": "t1_n0zi4dq",
           "created_datetime": "2025-07-02T18:16:31+00:00",
-          "ZSL": "Por favor, proporciona el texto para que pueda analizar"
+          "ZSL": "Por favor, proporciona el texto para que pueda analizar",
+          "FSL": "Texto: Al final, parece que sí... No",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n10j0z1",
@@ -3207,7 +3651,9 @@
           "is_submitter": false,
           "name": "t1_n10j0z1",
           "created_datetime": "2025-07-02T21:18:24+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "n0zb91b",
@@ -3221,7 +3667,9 @@
           "is_submitter": false,
           "name": "t1_n0zb91b",
           "created_datetime": "2025-07-02T17:43:36+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n0zhw5v",
@@ -3235,7 +3683,9 @@
           "is_submitter": false,
           "name": "t1_n0zhw5v",
           "created_datetime": "2025-07-02T18:15:24+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n13jakt",
@@ -3249,7 +3699,9 @@
           "is_submitter": false,
           "name": "t1_n13jakt",
           "created_datetime": "2025-07-03T09:29:29+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n0yyqx6",
@@ -3263,7 +3715,9 @@
           "is_submitter": false,
           "name": "t1_n0yyqx6",
           "created_datetime": "2025-07-02T16:45:27+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n0xsk9m",
@@ -3277,7 +3731,9 @@
           "is_submitter": false,
           "name": "t1_n0xsk9m",
           "created_datetime": "2025-07-02T13:20:26+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n11wmcr",
@@ -3291,7 +3747,9 @@
           "is_submitter": false,
           "name": "t1_n11wmcr",
           "created_datetime": "2025-07-03T01:45:39+00:00",
-          "ZSL": "Entendido. Estoy listo para analizar el texto y"
+          "ZSL": "De acuerdo. Por favor, proporciona el texto para",
+          "FSL": "Texto: Si pensáis que esa es una opinión",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n129wvi",
@@ -3305,7 +3763,9 @@
           "is_submitter": false,
           "name": "t1_n129wvi",
           "created_datetime": "2025-07-03T03:05:46+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "n0zwuml",
@@ -3319,7 +3779,9 @@
           "is_submitter": false,
           "name": "t1_n0zwuml",
           "created_datetime": "2025-07-02T19:29:59+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "Apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "n0y5iw2",
@@ -3333,7 +3795,9 @@
           "is_submitter": false,
           "name": "t1_n0y5iw2",
           "created_datetime": "2025-07-02T14:27:29+00:00",
-          "ZSL": "Por favor, proporcióname el texto.\n"
+          "ZSL": "No entiendo la selección natural.\n",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n100aak",
@@ -3347,7 +3811,9 @@
           "is_submitter": false,
           "name": "t1_n100aak",
           "created_datetime": "2025-07-02T19:47:28+00:00",
-          "ZSL": "Entendido. Por favor, proporciona el texto que"
+          "ZSL": "Por favor, proporciona el texto que necesitas que anal",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n11xgy1",
@@ -3361,7 +3827,9 @@
           "is_submitter": false,
           "name": "t1_n11xgy1",
           "created_datetime": "2025-07-03T01:50:15+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n0xtdgj",
@@ -3375,7 +3843,9 @@
           "is_submitter": false,
           "name": "t1_n0xtdgj",
           "created_datetime": "2025-07-02T13:24:53+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n0xtfrq",
@@ -3389,7 +3859,9 @@
           "is_submitter": true,
           "name": "t1_n0xtfrq",
           "created_datetime": "2025-07-02T13:25:15+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n0xtric",
@@ -3403,7 +3875,9 @@
           "is_submitter": false,
           "name": "t1_n0xtric",
           "created_datetime": "2025-07-02T13:27:01+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n1098xd",
@@ -3417,7 +3891,9 @@
           "is_submitter": false,
           "name": "t1_n1098xd",
           "created_datetime": "2025-07-02T20:31:14+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n0zhkuf",
@@ -3431,7 +3907,9 @@
           "is_submitter": false,
           "name": "t1_n0zhkuf",
           "created_datetime": "2025-07-02T18:13:50+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n0z5hyw",
@@ -3445,7 +3923,9 @@
           "is_submitter": false,
           "name": "t1_n0z5hyw",
           "created_datetime": "2025-07-02T17:16:47+00:00",
-          "ZSL": "Apropiado"
+          "ZSL": "Apropriado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "n0yjuxh",
@@ -3459,7 +3939,9 @@
           "is_submitter": false,
           "name": "t1_n0yjuxh",
           "created_datetime": "2025-07-02T15:35:23+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n0xw2p2",
@@ -3473,7 +3955,9 @@
           "is_submitter": false,
           "name": "t1_n0xw2p2",
           "created_datetime": "2025-07-02T13:39:35+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "n0zz1vi",
@@ -3487,7 +3971,9 @@
           "is_submitter": false,
           "name": "t1_n0zz1vi",
           "created_datetime": "2025-07-02T19:41:15+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n0z95w2",
@@ -3501,7 +3987,9 @@
           "is_submitter": false,
           "name": "t1_n0z95w2",
           "created_datetime": "2025-07-02T17:33:55+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n0zyu55",
@@ -3515,7 +4003,9 @@
           "is_submitter": false,
           "name": "t1_n0zyu55",
           "created_datetime": "2025-07-02T19:40:10+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n11raip",
@@ -3529,7 +4019,9 @@
           "is_submitter": false,
           "name": "t1_n11raip",
           "created_datetime": "2025-07-03T01:16:25+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n13f1at",
@@ -3543,7 +4035,9 @@
           "is_submitter": false,
           "name": "t1_n13f1at",
           "created_datetime": "2025-07-03T08:47:48+00:00",
-          "ZSL": "Entendido. Por favor, proporciona el texto."
+          "ZSL": "Entendido. Por favor, proporciona el texto que",
+          "FSL": "Texto: Los inmigrantes son una amenaza para nuestra",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n0zfng2",
@@ -3557,7 +4051,9 @@
           "is_submitter": false,
           "name": "t1_n0zfng2",
           "created_datetime": "2025-07-02T18:04:25+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "n0yz3qq",
@@ -3571,7 +4067,9 @@
           "is_submitter": false,
           "name": "t1_n0yz3qq",
           "created_datetime": "2025-07-02T16:47:08+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "n0zzfe4",
@@ -3585,7 +4083,9 @@
           "is_submitter": false,
           "name": "t1_n0zzfe4",
           "created_datetime": "2025-07-02T19:43:07+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         }
       ]
     },
@@ -3616,7 +4116,9 @@
           "is_submitter": false,
           "name": "t1_mjw3zn3",
           "created_datetime": "2025-03-26T20:04:05+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mjvguii",
@@ -3630,7 +4132,9 @@
           "is_submitter": false,
           "name": "t1_mjvguii",
           "created_datetime": "2025-03-26T18:11:04+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mjwhzfd",
@@ -3644,7 +4148,9 @@
           "is_submitter": false,
           "name": "t1_mjwhzfd",
           "created_datetime": "2025-03-26T21:07:38+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mkmdoku",
@@ -3658,7 +4164,9 @@
           "is_submitter": false,
           "name": "t1_mkmdoku",
           "created_datetime": "2025-03-31T02:13:10+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mkhkugc",
@@ -3672,7 +4180,9 @@
           "is_submitter": false,
           "name": "t1_mkhkugc",
           "created_datetime": "2025-03-30T08:07:20+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mjwth0l",
@@ -3686,7 +4196,9 @@
           "is_submitter": false,
           "name": "t1_mjwth0l",
           "created_datetime": "2025-03-26T22:04:31+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mko2xlx",
@@ -3700,7 +4212,9 @@
           "is_submitter": false,
           "name": "t1_mko2xlx",
           "created_datetime": "2025-03-31T11:31:16+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mjwxe8j",
@@ -3714,7 +4228,9 @@
           "is_submitter": false,
           "name": "t1_mjwxe8j",
           "created_datetime": "2025-03-26T22:25:24+00:00",
-          "ZSL": "Por favor, proporciona el texto para que pueda determinar"
+          "ZSL": "Por favor, proporciona el texto que deseas que anal",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mkpmpqk",
@@ -3728,7 +4244,9 @@
           "is_submitter": false,
           "name": "t1_mkpmpqk",
           "created_datetime": "2025-03-31T16:47:17+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mjvievb",
@@ -3742,7 +4260,9 @@
           "is_submitter": true,
           "name": "t1_mjvievb",
           "created_datetime": "2025-03-26T18:18:42+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mjyx738",
@@ -3756,7 +4276,9 @@
           "is_submitter": false,
           "name": "t1_mjyx738",
           "created_datetime": "2025-03-27T06:11:58+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "No puedo analizar el texto proporcionado. La solicitud",
+          "CoT": "Por favor, dame el texto que quieres que analice.\n"
         },
         {
           "id": "mk0k6t6",
@@ -3770,7 +4292,9 @@
           "is_submitter": false,
           "name": "t1_mk0k6t6",
           "created_datetime": "2025-03-27T14:18:52+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mjx9pc3",
@@ -3784,7 +4308,9 @@
           "is_submitter": true,
           "name": "t1_mjx9pc3",
           "created_datetime": "2025-03-26T23:30:37+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "**Apropiado**\n",
+          "CoT": "The text does not contain any inappropriate content. It discusses the challenges faced by minority groups in the workplace and highlights the importance of inclusive policies."
         },
         {
           "id": "mjygqgh",
@@ -3798,7 +4324,9 @@
           "is_submitter": false,
           "name": "t1_mjygqgh",
           "created_datetime": "2025-03-27T03:48:35+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mjxl4w0",
@@ -3812,7 +4340,9 @@
           "is_submitter": false,
           "name": "t1_mjxl4w0",
           "created_datetime": "2025-03-27T00:33:57+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mjx4gqg",
@@ -3826,7 +4356,9 @@
           "is_submitter": true,
           "name": "t1_mjx4gqg",
           "created_datetime": "2025-03-26T23:02:52+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mjw3qyd",
@@ -3840,7 +4372,9 @@
           "is_submitter": false,
           "name": "t1_mjw3qyd",
           "created_datetime": "2025-03-26T20:02:53+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mk81leh",
@@ -3854,7 +4388,9 @@
           "is_submitter": false,
           "name": "t1_mk81leh",
           "created_datetime": "2025-03-28T17:59:16+00:00",
-          "ZSL": "Apropiado"
+          "ZSL": "Apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mjyxbc1",
@@ -3868,7 +4404,9 @@
           "is_submitter": false,
           "name": "t1_mjyxbc1",
           "created_datetime": "2025-03-27T06:13:11+00:00",
-          "ZSL": "Por favor, proporciona el texto que deseas que anal"
+          "ZSL": "Por favor, proporciona el texto que deseas que anal",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mjwcwwu",
@@ -3882,7 +4420,9 @@
           "is_submitter": false,
           "name": "t1_mjwcwwu",
           "created_datetime": "2025-03-26T20:45:30+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mjy76na",
@@ -3896,7 +4436,9 @@
           "is_submitter": true,
           "name": "t1_mjy76na",
           "created_datetime": "2025-03-27T02:44:03+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mjvkv7s",
@@ -3910,7 +4452,9 @@
           "is_submitter": false,
           "name": "t1_mjvkv7s",
           "created_datetime": "2025-03-26T18:30:41+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mjvz2jt",
@@ -3924,7 +4468,9 @@
           "is_submitter": false,
           "name": "t1_mjvz2jt",
           "created_datetime": "2025-03-26T19:40:31+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "Apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mjycghj",
@@ -3938,7 +4484,9 @@
           "is_submitter": false,
           "name": "t1_mjycghj",
           "created_datetime": "2025-03-27T03:18:34+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mk8xrqn",
@@ -3952,7 +4500,9 @@
           "is_submitter": false,
           "name": "t1_mk8xrqn",
           "created_datetime": "2025-03-28T20:39:01+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mk0cpif",
@@ -3966,7 +4516,9 @@
           "is_submitter": false,
           "name": "t1_mk0cpif",
           "created_datetime": "2025-03-27T13:39:01+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mjwiefd",
@@ -3980,7 +4532,9 @@
           "is_submitter": false,
           "name": "t1_mjwiefd",
           "created_datetime": "2025-03-26T21:09:31+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mjwv0cp",
@@ -3994,7 +4548,9 @@
           "is_submitter": false,
           "name": "t1_mjwv0cp",
           "created_datetime": "2025-03-26T22:12:40+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mjw3usd",
@@ -4008,7 +4564,9 @@
           "is_submitter": false,
           "name": "t1_mjw3usd",
           "created_datetime": "2025-03-26T20:03:24+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mjwyjql",
@@ -4022,7 +4580,9 @@
           "is_submitter": false,
           "name": "t1_mjwyjql",
           "created_datetime": "2025-03-26T22:31:35+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mkjkte8",
@@ -4036,7 +4596,9 @@
           "is_submitter": true,
           "name": "t1_mkjkte8",
           "created_datetime": "2025-03-30T16:53:18+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mjwqgy9",
@@ -4050,7 +4612,9 @@
           "is_submitter": false,
           "name": "t1_mjwqgy9",
           "created_datetime": "2025-03-26T21:49:06+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mjvmrfa",
@@ -4064,7 +4628,9 @@
           "is_submitter": true,
           "name": "t1_mjvmrfa",
           "created_datetime": "2025-03-26T18:40:03+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mjvmrlj",
@@ -4078,7 +4644,9 @@
           "is_submitter": false,
           "name": "t1_mjvmrlj",
           "created_datetime": "2025-03-26T18:40:04+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mkd89jz",
@@ -4092,7 +4660,9 @@
           "is_submitter": false,
           "name": "t1_mkd89jz",
           "created_datetime": "2025-03-29T15:20:15+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mjwd086",
@@ -4106,7 +4676,9 @@
           "is_submitter": false,
           "name": "t1_mjwd086",
           "created_datetime": "2025-03-26T20:45:56+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mjxkv5b",
@@ -4120,7 +4692,9 @@
           "is_submitter": false,
           "name": "t1_mjxkv5b",
           "created_datetime": "2025-03-27T00:32:25+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mk0v3vp",
@@ -4134,7 +4708,9 @@
           "is_submitter": false,
           "name": "t1_mk0v3vp",
           "created_datetime": "2025-03-27T15:12:52+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mk83c6g",
@@ -4148,7 +4724,9 @@
           "is_submitter": false,
           "name": "t1_mk83c6g",
           "created_datetime": "2025-03-28T18:07:48+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mk140os",
@@ -4162,7 +4740,9 @@
           "is_submitter": false,
           "name": "t1_mk140os",
           "created_datetime": "2025-03-27T15:56:10+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mjvppl9",
@@ -4176,7 +4756,9 @@
           "is_submitter": false,
           "name": "t1_mjvppl9",
           "created_datetime": "2025-03-26T18:54:16+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mjvuc96",
@@ -4190,7 +4772,9 @@
           "is_submitter": true,
           "name": "t1_mjvuc96",
           "created_datetime": "2025-03-26T19:16:57+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mjvq4rp",
@@ -4204,7 +4788,9 @@
           "is_submitter": false,
           "name": "t1_mjvq4rp",
           "created_datetime": "2025-03-26T18:56:16+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "ml1isjs",
@@ -4218,7 +4804,9 @@
           "is_submitter": false,
           "name": "t1_ml1isjs",
           "created_datetime": "2025-04-02T15:57:01+00:00",
-          "ZSL": "De acuerdo.\n"
+          "ZSL": "Aha si ok\n",
+          "FSL": "Aha si ok.\n",
+          "CoT": "Aha si ok."
         },
         {
           "id": "mjx659h",
@@ -4232,7 +4820,9 @@
           "is_submitter": false,
           "name": "t1_mjx659h",
           "created_datetime": "2025-03-26T23:11:47+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mjvr17o",
@@ -4246,7 +4836,9 @@
           "is_submitter": false,
           "name": "t1_mjvr17o",
           "created_datetime": "2025-03-26T19:00:35+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mjvuari",
@@ -4260,7 +4852,9 @@
           "is_submitter": true,
           "name": "t1_mjvuari",
           "created_datetime": "2025-03-26T19:16:44+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mjxetgv",
@@ -4274,7 +4868,9 @@
           "is_submitter": false,
           "name": "t1_mjxetgv",
           "created_datetime": "2025-03-26T23:58:29+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mjz6mn2",
@@ -4288,7 +4884,9 @@
           "is_submitter": false,
           "name": "t1_mjz6mn2",
           "created_datetime": "2025-03-27T07:52:50+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mjvsuqe",
@@ -4302,7 +4900,9 @@
           "is_submitter": true,
           "name": "t1_mjvsuqe",
           "created_datetime": "2025-03-26T19:09:33+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         }
       ]
     },
@@ -4333,7 +4933,9 @@
           "is_submitter": false,
           "name": "t1_m8bfk2m",
           "created_datetime": "2025-01-21T08:13:41+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m87adm5",
@@ -4347,7 +4949,9 @@
           "is_submitter": false,
           "name": "t1_m87adm5",
           "created_datetime": "2025-01-20T18:23:01+00:00",
-          "ZSL": "Por favor, proporciona el texto que deseas que anal"
+          "ZSL": "No respondiste cagon.",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m87ezog",
@@ -4361,7 +4965,9 @@
           "is_submitter": false,
           "name": "t1_m87ezog",
           "created_datetime": "2025-01-20T18:43:29+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m88k2d4",
@@ -4375,7 +4981,9 @@
           "is_submitter": false,
           "name": "t1_m88k2d4",
           "created_datetime": "2025-01-20T21:47:38+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m86u9z9",
@@ -4389,7 +4997,9 @@
           "is_submitter": false,
           "name": "t1_m86u9z9",
           "created_datetime": "2025-01-20T17:11:04+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m86jo96",
@@ -4403,7 +5013,9 @@
           "is_submitter": false,
           "name": "t1_m86jo96",
           "created_datetime": "2025-01-20T16:22:05+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "m86jpp4",
@@ -4417,7 +5029,9 @@
           "is_submitter": false,
           "name": "t1_m86jpp4",
           "created_datetime": "2025-01-20T16:22:17+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m86rion",
@@ -4431,7 +5045,9 @@
           "is_submitter": true,
           "name": "t1_m86rion",
           "created_datetime": "2025-01-20T16:58:23+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "m8bxmu9",
@@ -4445,7 +5061,9 @@
           "is_submitter": false,
           "name": "t1_m8bxmu9",
           "created_datetime": "2025-01-21T11:17:39+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "m86klk5",
@@ -4459,7 +5077,9 @@
           "is_submitter": false,
           "name": "t1_m86klk5",
           "created_datetime": "2025-01-20T16:26:25+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "m8ega5u",
@@ -4473,7 +5093,9 @@
           "is_submitter": false,
           "name": "t1_m8ega5u",
           "created_datetime": "2025-01-21T19:26:56+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m88bh97",
@@ -4487,7 +5109,9 @@
           "is_submitter": false,
           "name": "t1_m88bh97",
           "created_datetime": "2025-01-20T21:09:39+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m86l34y",
@@ -4501,7 +5125,9 @@
           "is_submitter": false,
           "name": "t1_m86l34y",
           "created_datetime": "2025-01-20T16:28:42+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m8e5tlx",
@@ -4515,7 +5141,9 @@
           "is_submitter": false,
           "name": "t1_m8e5tlx",
           "created_datetime": "2025-01-21T18:39:28+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m86lmqq",
@@ -4529,7 +5157,9 @@
           "is_submitter": false,
           "name": "t1_m86lmqq",
           "created_datetime": "2025-01-20T16:31:13+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m8a9hwa",
@@ -4543,7 +5173,9 @@
           "is_submitter": false,
           "name": "t1_m8a9hwa",
           "created_datetime": "2025-01-21T03:01:19+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "m8902mx",
@@ -4557,7 +5189,9 @@
           "is_submitter": false,
           "name": "t1_m8902mx",
           "created_datetime": "2025-01-20T23:02:50+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m86lzex",
@@ -4571,7 +5205,9 @@
           "is_submitter": false,
           "name": "t1_m86lzex",
           "created_datetime": "2025-01-20T16:32:53+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m8saozw",
@@ -4585,7 +5221,9 @@
           "is_submitter": false,
           "name": "t1_m8saozw",
           "created_datetime": "2025-01-23T20:18:51+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m8au7o7",
@@ -4599,7 +5237,9 @@
           "is_submitter": false,
           "name": "t1_m8au7o7",
           "created_datetime": "2025-01-21T05:08:40+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m8egtcb",
@@ -4613,7 +5253,9 @@
           "is_submitter": false,
           "name": "t1_m8egtcb",
           "created_datetime": "2025-01-21T19:29:20+00:00",
-          "ZSL": "Apropiado"
+          "ZSL": "Apropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m89c1m0",
@@ -4627,7 +5269,9 @@
           "is_submitter": false,
           "name": "t1_m89c1m0",
           "created_datetime": "2025-01-21T00:05:05+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "m86val7",
@@ -4641,7 +5285,9 @@
           "is_submitter": false,
           "name": "t1_m86val7",
           "created_datetime": "2025-01-20T17:15:45+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "m87irmh",
@@ -4655,7 +5301,9 @@
           "is_submitter": false,
           "name": "t1_m87irmh",
           "created_datetime": "2025-01-20T19:00:08+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "m87av50",
@@ -4669,7 +5317,9 @@
           "is_submitter": false,
           "name": "t1_m87av50",
           "created_datetime": "2025-01-20T18:25:10+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m8abecu",
@@ -4683,7 +5333,9 @@
           "is_submitter": false,
           "name": "t1_m8abecu",
           "created_datetime": "2025-01-21T03:11:55+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m88jsn7",
@@ -4697,7 +5349,9 @@
           "is_submitter": false,
           "name": "t1_m88jsn7",
           "created_datetime": "2025-01-20T21:46:25+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m8768mj",
@@ -4711,7 +5365,9 @@
           "is_submitter": false,
           "name": "t1_m8768mj",
           "created_datetime": "2025-01-20T18:04:29+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m86o2i6",
@@ -4725,7 +5381,9 @@
           "is_submitter": false,
           "name": "t1_m86o2i6",
           "created_datetime": "2025-01-20T16:42:33+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m88zsfk",
@@ -4739,7 +5397,9 @@
           "is_submitter": false,
           "name": "t1_m88zsfk",
           "created_datetime": "2025-01-20T23:01:25+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m8d18tn",
@@ -4753,7 +5413,9 @@
           "is_submitter": false,
           "name": "t1_m8d18tn",
           "created_datetime": "2025-01-21T15:31:50+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "m86yfyf",
@@ -4767,7 +5429,9 @@
           "is_submitter": false,
           "name": "t1_m86yfyf",
           "created_datetime": "2025-01-20T17:30:05+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m88hlmj",
@@ -4781,7 +5445,9 @@
           "is_submitter": false,
           "name": "t1_m88hlmj",
           "created_datetime": "2025-01-20T21:36:43+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m876ugt",
@@ -4795,7 +5461,9 @@
           "is_submitter": false,
           "name": "t1_m876ugt",
           "created_datetime": "2025-01-20T18:07:14+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "m86woq3",
@@ -4809,7 +5477,9 @@
           "is_submitter": false,
           "name": "t1_m86woq3",
           "created_datetime": "2025-01-20T17:22:04+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "m87a0p6",
@@ -4823,7 +5493,9 @@
           "is_submitter": false,
           "name": "t1_m87a0p6",
           "created_datetime": "2025-01-20T18:21:26+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m8d0mh1",
@@ -4837,7 +5509,9 @@
           "is_submitter": false,
           "name": "t1_m8d0mh1",
           "created_datetime": "2025-01-21T15:28:48+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m86p90a",
@@ -4851,7 +5525,9 @@
           "is_submitter": false,
           "name": "t1_m86p90a",
           "created_datetime": "2025-01-20T16:48:02+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m897z6n",
@@ -4865,7 +5541,9 @@
           "is_submitter": false,
           "name": "t1_m897z6n",
           "created_datetime": "2025-01-20T23:43:31+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "m86pemq",
@@ -4879,7 +5557,9 @@
           "is_submitter": false,
           "name": "t1_m86pemq",
           "created_datetime": "2025-01-20T16:48:46+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m8b3n0l",
@@ -4893,7 +5573,9 @@
           "is_submitter": false,
           "name": "t1_m8b3n0l",
           "created_datetime": "2025-01-21T06:22:37+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m8e1z47",
@@ -4907,7 +5589,9 @@
           "is_submitter": false,
           "name": "t1_m8e1z47",
           "created_datetime": "2025-01-21T18:22:07+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m86u056",
@@ -4921,7 +5605,9 @@
           "is_submitter": false,
           "name": "t1_m86u056",
           "created_datetime": "2025-01-20T17:09:48+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m877skw",
@@ -4935,7 +5621,9 @@
           "is_submitter": false,
           "name": "t1_m877skw",
           "created_datetime": "2025-01-20T18:11:29+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m8atjzc",
@@ -4949,7 +5637,9 @@
           "is_submitter": false,
           "name": "t1_m8atjzc",
           "created_datetime": "2025-01-21T05:03:57+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m8taqwv",
@@ -4963,7 +5653,9 @@
           "is_submitter": false,
           "name": "t1_m8taqwv",
           "created_datetime": "2025-01-23T23:06:35+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m8g1h2o",
@@ -4977,7 +5669,9 @@
           "is_submitter": false,
           "name": "t1_m8g1h2o",
           "created_datetime": "2025-01-21T23:55:55+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "m88u3r0",
@@ -4991,7 +5685,9 @@
           "is_submitter": false,
           "name": "t1_m88u3r0",
           "created_datetime": "2025-01-20T22:34:02+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m87180r",
@@ -5005,7 +5701,9 @@
           "is_submitter": false,
           "name": "t1_m87180r",
           "created_datetime": "2025-01-20T17:42:33+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "m880yva",
@@ -5019,7 +5717,9 @@
           "is_submitter": false,
           "name": "t1_m880yva",
           "created_datetime": "2025-01-20T20:22:59+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         }
       ]
     },
@@ -5050,7 +5750,9 @@
           "is_submitter": true,
           "name": "t1_mpi7jpw",
           "created_datetime": "2025-04-28T16:22:24+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mph9zz2",
@@ -5064,7 +5766,9 @@
           "is_submitter": false,
           "name": "t1_mph9zz2",
           "created_datetime": "2025-04-28T13:28:37+00:00",
-          "ZSL": "Apropriado"
+          "ZSL": "Apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mpijy26",
@@ -5078,7 +5782,9 @@
           "is_submitter": false,
           "name": "t1_mpijy26",
           "created_datetime": "2025-04-28T17:22:46+00:00",
-          "ZSL": "Por favor, dame el texto para que pueda analizar"
+          "ZSL": "Por favor, dame el texto que quieres que anal",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mpha9ep",
@@ -5092,7 +5798,9 @@
           "is_submitter": true,
           "name": "t1_mpha9ep",
           "created_datetime": "2025-04-28T13:30:10+00:00",
-          "ZSL": "Totalmente.\n"
+          "ZSL": "Totalmente.\n",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mpi0lju",
@@ -5106,7 +5814,9 @@
           "is_submitter": false,
           "name": "t1_mpi0lju",
           "created_datetime": "2025-04-28T15:47:48+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "apropiado",
+          "FSL": "Considerando el texto proporcionado, la clasificación sería",
+          "CoT": "Apropiado"
         },
         {
           "id": "mpqd8en",
@@ -5120,7 +5830,9 @@
           "is_submitter": false,
           "name": "t1_mpqd8en",
           "created_datetime": "2025-04-29T21:27:20+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mppti8d",
@@ -5134,7 +5846,9 @@
           "is_submitter": false,
           "name": "t1_mppti8d",
           "created_datetime": "2025-04-29T19:52:39+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mpknfk7",
@@ -5148,7 +5862,9 @@
           "is_submitter": false,
           "name": "t1_mpknfk7",
           "created_datetime": "2025-04-28T23:58:09+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mpkhv7c",
@@ -5162,7 +5878,9 @@
           "is_submitter": false,
           "name": "t1_mpkhv7c",
           "created_datetime": "2025-04-28T23:26:25+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mpho4hl",
@@ -5176,7 +5894,9 @@
           "is_submitter": false,
           "name": "t1_mpho4hl",
           "created_datetime": "2025-04-28T14:45:05+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mphazn8",
@@ -5190,7 +5910,9 @@
           "is_submitter": false,
           "name": "t1_mphazn8",
           "created_datetime": "2025-04-28T13:34:29+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mphz64q",
@@ -5204,7 +5926,9 @@
           "is_submitter": false,
           "name": "t1_mphz64q",
           "created_datetime": "2025-04-28T15:40:47+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mphz0ph",
@@ -5218,7 +5942,9 @@
           "is_submitter": false,
           "name": "t1_mphz0ph",
           "created_datetime": "2025-04-28T15:40:03+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "apropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mpjwkm3",
@@ -5232,7 +5958,9 @@
           "is_submitter": false,
           "name": "t1_mpjwkm3",
           "created_datetime": "2025-04-28T21:25:44+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mphbbo3",
@@ -5246,7 +5974,9 @@
           "is_submitter": true,
           "name": "t1_mphbbo3",
           "created_datetime": "2025-04-28T13:36:25+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "apropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mqr30nk",
@@ -5260,7 +5990,9 @@
           "is_submitter": false,
           "name": "t1_mqr30nk",
           "created_datetime": "2025-05-05T18:39:24+00:00",
-          "ZSL": "De acuerdo. Por favor, proporciona el texto."
+          "ZSL": "Por favor, proporciona el texto que quieres que anal",
+          "FSL": "Texto: Pero si no lo ves, ¡el",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mphv94w",
@@ -5274,7 +6006,9 @@
           "is_submitter": true,
           "name": "t1_mphv94w",
           "created_datetime": "2025-04-28T15:21:22+00:00",
-          "ZSL": "Apropriado"
+          "ZSL": "apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mpiizqa",
@@ -5288,7 +6022,9 @@
           "is_submitter": true,
           "name": "t1_mpiizqa",
           "created_datetime": "2025-04-28T17:18:13+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mpiebe1",
@@ -5302,7 +6038,9 @@
           "is_submitter": false,
           "name": "t1_mpiebe1",
           "created_datetime": "2025-04-28T16:55:33+00:00",
-          "ZSL": "Aparto"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mpi8sth",
@@ -5316,7 +6054,9 @@
           "is_submitter": false,
           "name": "t1_mpi8sth",
           "created_datetime": "2025-04-28T16:28:34+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mpkpj12",
@@ -5330,7 +6070,9 @@
           "is_submitter": false,
           "name": "t1_mpkpj12",
           "created_datetime": "2025-04-29T00:10:21+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "Apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mpjuf7c",
@@ -5344,7 +6086,9 @@
           "is_submitter": false,
           "name": "t1_mpjuf7c",
           "created_datetime": "2025-04-28T21:14:21+00:00",
-          "ZSL": "Apropiado"
+          "ZSL": "apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mpiqlab",
@@ -5358,7 +6102,9 @@
           "is_submitter": false,
           "name": "t1_mpiqlab",
           "created_datetime": "2025-04-28T17:54:34+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mpi70kz",
@@ -5372,7 +6118,9 @@
           "is_submitter": false,
           "name": "t1_mpi70kz",
           "created_datetime": "2025-04-28T16:19:44+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mpi7bdf",
@@ -5386,7 +6134,9 @@
           "is_submitter": false,
           "name": "t1_mpi7bdf",
           "created_datetime": "2025-04-28T16:21:14+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mpir3c0",
@@ -5400,7 +6150,9 @@
           "is_submitter": false,
           "name": "t1_mpir3c0",
           "created_datetime": "2025-04-28T17:56:57+00:00",
-          "ZSL": "Apropiado"
+          "ZSL": "apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mpifbay",
@@ -5414,7 +6166,9 @@
           "is_submitter": true,
           "name": "t1_mpifbay",
           "created_datetime": "2025-04-28T17:00:17+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mpjxg4m",
@@ -5428,7 +6182,9 @@
           "is_submitter": false,
           "name": "t1_mpjxg4m",
           "created_datetime": "2025-04-28T21:30:24+00:00",
-          "ZSL": "Por favor, dame el texto.\n"
+          "ZSL": "Por favor, proporciona el texto para que pueda analizar",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mpp4txf",
@@ -5442,7 +6198,9 @@
           "is_submitter": false,
           "name": "t1_mpp4txf",
           "created_datetime": "2025-04-29T17:53:48+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mpmhl76",
@@ -5456,7 +6214,9 @@
           "is_submitter": false,
           "name": "t1_mpmhl76",
           "created_datetime": "2025-04-29T07:52:05+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mpkpljt",
@@ -5470,7 +6230,9 @@
           "is_submitter": false,
           "name": "t1_mpkpljt",
           "created_datetime": "2025-04-29T00:10:45+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mpiye6i",
@@ -5484,7 +6246,9 @@
           "is_submitter": false,
           "name": "t1_mpiye6i",
           "created_datetime": "2025-04-28T18:33:11+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mphe5aw",
@@ -5498,7 +6262,9 @@
           "is_submitter": false,
           "name": "t1_mphe5aw",
           "created_datetime": "2025-04-28T13:52:20+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mpm68k6",
@@ -5512,7 +6278,9 @@
           "is_submitter": false,
           "name": "t1_mpm68k6",
           "created_datetime": "2025-04-29T05:58:59+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mpkijun",
@@ -5526,7 +6294,9 @@
           "is_submitter": false,
           "name": "t1_mpkijun",
           "created_datetime": "2025-04-28T23:30:18+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mpj7mjf",
@@ -5540,7 +6310,9 @@
           "is_submitter": false,
           "name": "t1_mpj7mjf",
           "created_datetime": "2025-04-28T19:19:23+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mpk4r3j",
@@ -5554,7 +6326,9 @@
           "is_submitter": false,
           "name": "t1_mpk4r3j",
           "created_datetime": "2025-04-28T22:11:40+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mpkholl",
@@ -5568,7 +6342,9 @@
           "is_submitter": false,
           "name": "t1_mpkholl",
           "created_datetime": "2025-04-28T23:25:23+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mpin5xw",
@@ -5582,7 +6358,9 @@
           "is_submitter": false,
           "name": "t1_mpin5xw",
           "created_datetime": "2025-04-28T17:38:11+00:00",
-          "ZSL": "Apropiado"
+          "ZSL": "Apropriado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mphgweh",
@@ -5596,7 +6374,9 @@
           "is_submitter": true,
           "name": "t1_mphgweh",
           "created_datetime": "2025-04-28T14:07:18+00:00",
-          "ZSL": "no asignar cosas inexplicables a lo sobrenatural/"
+          "ZSL": "no asignar cosas inexplicables a lo sobrenatural/",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mplmuxt",
@@ -5610,7 +6390,9 @@
           "is_submitter": false,
           "name": "t1_mplmuxt",
           "created_datetime": "2025-04-29T03:29:05+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mphs17l",
@@ -5624,7 +6406,9 @@
           "is_submitter": false,
           "name": "t1_mphs17l",
           "created_datetime": "2025-04-28T15:05:04+00:00",
-          "ZSL": "Apropriado"
+          "ZSL": "Apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mplltn1",
@@ -5638,7 +6422,9 @@
           "is_submitter": false,
           "name": "t1_mplltn1",
           "created_datetime": "2025-04-29T03:22:26+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mphf31a",
@@ -5652,7 +6438,9 @@
           "is_submitter": false,
           "name": "t1_mphf31a",
           "created_datetime": "2025-04-28T13:57:27+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "Apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mpmj5b5",
@@ -5666,7 +6454,9 @@
           "is_submitter": false,
           "name": "t1_mpmj5b5",
           "created_datetime": "2025-04-29T08:08:39+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mphgu5m",
@@ -5680,7 +6470,9 @@
           "is_submitter": false,
           "name": "t1_mphgu5m",
           "created_datetime": "2025-04-28T14:06:58+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mphf742",
@@ -5694,7 +6486,9 @@
           "is_submitter": false,
           "name": "t1_mphf742",
           "created_datetime": "2025-04-28T13:58:04+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mphrhrh",
@@ -5708,7 +6502,9 @@
           "is_submitter": false,
           "name": "t1_mphrhrh",
           "created_datetime": "2025-04-28T15:02:17+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mphnteo",
@@ -5722,7 +6518,9 @@
           "is_submitter": false,
           "name": "t1_mphnteo",
           "created_datetime": "2025-04-28T14:43:31+00:00",
-          "ZSL": "De acuerdo. Por favor, dame el texto."
+          "ZSL": "Por favor, proporciona el texto que quieres que anal",
+          "FSL": "Por favor, dame el texto que quieres que anal",
+          "CoT": "De acuerdo, por favor, proporciona el texto que deseas que analice.\n"
         },
         {
           "id": "mphffq0",
@@ -5736,7 +6534,9 @@
           "is_submitter": true,
           "name": "t1_mphffq0",
           "created_datetime": "2025-04-28T13:59:21+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         }
       ]
     },
@@ -5767,7 +6567,9 @@
           "is_submitter": false,
           "name": "t1_mkx1su1",
           "created_datetime": "2025-04-01T20:47:07+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "apropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mky98wm",
@@ -5781,7 +6583,9 @@
           "is_submitter": false,
           "name": "t1_mky98wm",
           "created_datetime": "2025-04-02T00:58:40+00:00",
-          "ZSL": "Por favor, dame el texto para que pueda analizar"
+          "ZSL": "Por favor, proporciona el texto que deseas que anal",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "ml0o2vx",
@@ -5795,7 +6599,9 @@
           "is_submitter": false,
           "name": "t1_ml0o2vx",
           "created_datetime": "2025-04-02T13:14:18+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mkxtssk",
@@ -5809,7 +6615,9 @@
           "is_submitter": false,
           "name": "t1_mkxtssk",
           "created_datetime": "2025-04-01T23:23:47+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "ml3u37x",
@@ -5823,7 +6631,9 @@
           "is_submitter": false,
           "name": "t1_ml3u37x",
           "created_datetime": "2025-04-02T22:45:08+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mkyzdiz",
@@ -5837,7 +6647,9 @@
           "is_submitter": false,
           "name": "t1_mkyzdiz",
           "created_datetime": "2025-04-02T03:52:26+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mkxq447",
@@ -5851,7 +6663,9 @@
           "is_submitter": true,
           "name": "t1_mkxq447",
           "created_datetime": "2025-04-01T23:02:21+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mkxhn67",
@@ -5865,7 +6679,9 @@
           "is_submitter": false,
           "name": "t1_mkxhn67",
           "created_datetime": "2025-04-01T22:13:26+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mkx3whi",
@@ -5879,7 +6695,9 @@
           "is_submitter": false,
           "name": "t1_mkx3whi",
           "created_datetime": "2025-04-01T20:57:53+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mkxdv1s",
@@ -5893,7 +6711,9 @@
           "is_submitter": false,
           "name": "t1_mkxdv1s",
           "created_datetime": "2025-04-01T21:51:55+00:00",
-          "ZSL": "De acuerdo, entiendo. Por favor, dame"
+          "ZSL": "De acuerdo. Por favor, proporciona el texto.",
+          "FSL": "Texto: La vida es una lucha constante, y",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mkxcsni",
@@ -5907,7 +6727,9 @@
           "is_submitter": false,
           "name": "t1_mkxcsni",
           "created_datetime": "2025-04-01T21:45:58+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "ml00aqy",
@@ -5921,7 +6743,9 @@
           "is_submitter": false,
           "name": "t1_ml00aqy",
           "created_datetime": "2025-04-02T10:07:22+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mkzciqu",
@@ -5935,7 +6759,9 @@
           "is_submitter": false,
           "name": "t1_mkzciqu",
           "created_datetime": "2025-04-02T05:44:09+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mkylzcw",
@@ -5949,7 +6775,9 @@
           "is_submitter": false,
           "name": "t1_mkylzcw",
           "created_datetime": "2025-04-02T02:18:37+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "ml0cvgc",
@@ -5963,7 +6791,9 @@
           "is_submitter": false,
           "name": "t1_ml0cvgc",
           "created_datetime": "2025-04-02T11:57:42+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "ml5q2wy",
@@ -5977,7 +6807,9 @@
           "is_submitter": false,
           "name": "t1_ml5q2wy",
           "created_datetime": "2025-04-03T06:17:31+00:00",
-          "ZSL": "Apropiado"
+          "ZSL": "Apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "ml9b9sw",
@@ -5991,7 +6823,9 @@
           "is_submitter": false,
           "name": "t1_ml9b9sw",
           "created_datetime": "2025-04-03T20:04:37+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mkx6l7n",
@@ -6005,7 +6839,9 @@
           "is_submitter": false,
           "name": "t1_mkx6l7n",
           "created_datetime": "2025-04-01T21:12:05+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "apropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mkyvxpz",
@@ -6019,7 +6855,9 @@
           "is_submitter": false,
           "name": "t1_mkyvxpz",
           "created_datetime": "2025-04-02T03:26:21+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mky6dxv",
@@ -6033,7 +6871,9 @@
           "is_submitter": false,
           "name": "t1_mky6dxv",
           "created_datetime": "2025-04-02T00:40:49+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mkxgui4",
@@ -6047,7 +6887,9 @@
           "is_submitter": false,
           "name": "t1_mkxgui4",
           "created_datetime": "2025-04-01T22:08:54+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mkxuhnd",
@@ -6061,7 +6903,9 @@
           "is_submitter": false,
           "name": "t1_mkxuhnd",
           "created_datetime": "2025-04-01T23:27:53+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mkzzxbw",
@@ -6075,7 +6919,9 @@
           "is_submitter": false,
           "name": "t1_mkzzxbw",
           "created_datetime": "2025-04-02T10:03:23+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mkxrett",
@@ -6089,7 +6935,9 @@
           "is_submitter": false,
           "name": "t1_mkxrett",
           "created_datetime": "2025-04-01T23:09:56+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mkx8cbp",
@@ -6103,7 +6951,9 @@
           "is_submitter": false,
           "name": "t1_mkx8cbp",
           "created_datetime": "2025-04-01T21:21:23+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mkxgzi9",
@@ -6117,7 +6967,9 @@
           "is_submitter": false,
           "name": "t1_mkxgzi9",
           "created_datetime": "2025-04-01T22:09:41+00:00",
-          "ZSL": "Apropiado"
+          "ZSL": "Apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mkxpbev",
@@ -6131,7 +6983,9 @@
           "is_submitter": false,
           "name": "t1_mkxpbev",
           "created_datetime": "2025-04-01T22:57:41+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "ml35557",
@@ -6145,7 +6999,9 @@
           "is_submitter": false,
           "name": "t1_ml35557",
           "created_datetime": "2025-04-02T20:37:49+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mkxabtd",
@@ -6159,7 +7015,9 @@
           "is_submitter": false,
           "name": "t1_mkxabtd",
           "created_datetime": "2025-04-01T21:32:14+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mkxdalo",
@@ -6173,7 +7031,9 @@
           "is_submitter": false,
           "name": "t1_mkxdalo",
           "created_datetime": "2025-04-01T21:48:44+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mkx850l",
@@ -6187,7 +7047,9 @@
           "is_submitter": true,
           "name": "t1_mkx850l",
           "created_datetime": "2025-04-01T21:20:17+00:00",
-          "ZSL": "No lo soy."
+          "ZSL": "apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mkxa7r2",
@@ -6201,7 +7063,9 @@
           "is_submitter": true,
           "name": "t1_mkxa7r2",
           "created_datetime": "2025-04-01T21:31:36+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "ml0u095",
@@ -6215,7 +7079,9 @@
           "is_submitter": false,
           "name": "t1_ml0u095",
           "created_datetime": "2025-04-02T13:50:39+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mln3l8s",
@@ -6229,7 +7095,9 @@
           "is_submitter": false,
           "name": "t1_mln3l8s",
           "created_datetime": "2025-04-06T02:51:47+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mkzz8w7",
@@ -6243,7 +7111,9 @@
           "is_submitter": false,
           "name": "t1_mkzz8w7",
           "created_datetime": "2025-04-02T09:56:06+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mkymx5t",
@@ -6257,7 +7127,9 @@
           "is_submitter": false,
           "name": "t1_mkymx5t",
           "created_datetime": "2025-04-02T02:24:38+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mkxflow",
@@ -6271,7 +7143,9 @@
           "is_submitter": false,
           "name": "t1_mkxflow",
           "created_datetime": "2025-04-01T22:01:47+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mkyqwco",
@@ -6285,7 +7159,9 @@
           "is_submitter": false,
           "name": "t1_mkyqwco",
           "created_datetime": "2025-04-02T02:50:35+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mkxagva",
@@ -6299,7 +7175,9 @@
           "is_submitter": false,
           "name": "t1_mkxagva",
           "created_datetime": "2025-04-01T21:33:00+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mkxlwir",
@@ -6313,7 +7191,9 @@
           "is_submitter": false,
           "name": "t1_mkxlwir",
           "created_datetime": "2025-04-01T22:38:03+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mkxfbza",
@@ -6327,7 +7207,9 @@
           "is_submitter": false,
           "name": "t1_mkxfbza",
           "created_datetime": "2025-04-01T22:00:14+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mkxg58p",
@@ -6341,7 +7223,9 @@
           "is_submitter": false,
           "name": "t1_mkxg58p",
           "created_datetime": "2025-04-01T22:04:51+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mlj95bq",
@@ -6355,7 +7239,9 @@
           "is_submitter": false,
           "name": "t1_mlj95bq",
           "created_datetime": "2025-04-05T13:05:16+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mkzitw2",
@@ -6369,7 +7255,9 @@
           "is_submitter": false,
           "name": "t1_mkzitw2",
           "created_datetime": "2025-04-02T06:48:42+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mkx73ty",
@@ -6383,7 +7271,9 @@
           "is_submitter": false,
           "name": "t1_mkx73ty",
           "created_datetime": "2025-04-01T21:14:47+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mkx9078",
@@ -6397,7 +7287,9 @@
           "is_submitter": false,
           "name": "t1_mkx9078",
           "created_datetime": "2025-04-01T21:24:57+00:00",
-          "ZSL": "Aprobado"
+          "ZSL": "Apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mkx6f9t",
@@ -6411,7 +7303,9 @@
           "is_submitter": true,
           "name": "t1_mkx6f9t",
           "created_datetime": "2025-04-01T21:11:12+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mkxni4m",
@@ -6425,7 +7319,9 @@
           "is_submitter": false,
           "name": "t1_mkxni4m",
           "created_datetime": "2025-04-01T22:47:15+00:00",
-          "ZSL": "desacato"
+          "ZSL": "desacato",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mkxbn6i",
@@ -6439,7 +7335,9 @@
           "is_submitter": false,
           "name": "t1_mkxbn6i",
           "created_datetime": "2025-04-01T21:39:35+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mkzxevx",
@@ -6453,7 +7351,9 @@
           "is_submitter": false,
           "name": "t1_mkzxevx",
           "created_datetime": "2025-04-02T09:36:00+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         }
       ]
     },
@@ -6484,7 +7384,9 @@
           "is_submitter": false,
           "name": "t1_ma6k1mn",
           "created_datetime": "2025-01-31T12:03:29+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mab7tgi",
@@ -6498,7 +7400,9 @@
           "is_submitter": false,
           "name": "t1_mab7tgi",
           "created_datetime": "2025-02-01T02:34:01+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "ma88obs",
@@ -6512,7 +7416,9 @@
           "is_submitter": false,
           "name": "t1_ma88obs",
           "created_datetime": "2025-01-31T17:32:42+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "ma736wx",
@@ -6526,7 +7432,9 @@
           "is_submitter": false,
           "name": "t1_ma736wx",
           "created_datetime": "2025-01-31T14:08:51+00:00",
-          "ZSL": "Vale, entiendo. Por favor, proporciona el"
+          "ZSL": "Entendido. Por favor, proporciona el texto para",
+          "FSL": "Texto: El gobierno no hace nada por sus ciudadanos",
+          "CoT": "Inapropiado"
         },
         {
           "id": "ma8vt04",
@@ -6540,7 +7448,9 @@
           "is_submitter": false,
           "name": "t1_ma8vt04",
           "created_datetime": "2025-01-31T19:20:35+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "ma5dljq",
@@ -6554,7 +7464,9 @@
           "is_submitter": false,
           "name": "t1_ma5dljq",
           "created_datetime": "2025-01-31T05:23:50+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mage1fo",
@@ -6568,7 +7480,9 @@
           "is_submitter": false,
           "name": "t1_mage1fo",
           "created_datetime": "2025-02-01T22:50:37+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Texto: Solo hacia el equivocado xdd\n",
+          "CoT": "Inapropiado"
         },
         {
           "id": "makzzgf",
@@ -6582,7 +7496,9 @@
           "is_submitter": false,
           "name": "t1_makzzgf",
           "created_datetime": "2025-02-02T17:17:04+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mabjx3q",
@@ -6596,7 +7512,9 @@
           "is_submitter": false,
           "name": "t1_mabjx3q",
           "created_datetime": "2025-02-01T03:48:23+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "ma7et92",
@@ -6610,7 +7528,9 @@
           "is_submitter": false,
           "name": "t1_ma7et92",
           "created_datetime": "2025-01-31T15:11:21+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "maazuyp",
@@ -6624,7 +7544,9 @@
           "is_submitter": false,
           "name": "t1_maazuyp",
           "created_datetime": "2025-02-01T01:47:31+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "ma8qzhm",
@@ -6638,7 +7560,9 @@
           "is_submitter": false,
           "name": "t1_ma8qzhm",
           "created_datetime": "2025-01-31T18:57:51+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "ma9xq8g",
@@ -6652,7 +7576,9 @@
           "is_submitter": false,
           "name": "t1_ma9xq8g",
           "created_datetime": "2025-01-31T22:21:22+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "apropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mabepub",
@@ -6666,7 +7592,9 @@
           "is_submitter": false,
           "name": "t1_mabepub",
           "created_datetime": "2025-02-01T03:15:33+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "ma7mj1j",
@@ -6680,7 +7608,9 @@
           "is_submitter": false,
           "name": "t1_ma7mj1j",
           "created_datetime": "2025-01-31T15:49:27+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mac8zfm",
@@ -6694,7 +7624,9 @@
           "is_submitter": false,
           "name": "t1_mac8zfm",
           "created_datetime": "2025-02-01T07:02:56+00:00",
-          "ZSL": "De acuerdo. Por favor, proporciona el texto para"
+          "ZSL": "Entendido. Por favor, proporciona el texto.",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "maaldhg",
@@ -6708,7 +7640,9 @@
           "is_submitter": false,
           "name": "t1_maaldhg",
           "created_datetime": "2025-02-01T00:25:46+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "ma938os",
@@ -6722,7 +7656,9 @@
           "is_submitter": false,
           "name": "t1_ma938os",
           "created_datetime": "2025-01-31T19:55:34+00:00",
-          "ZSL": "Entendido. Por favor, proporciona el texto para"
+          "ZSL": "Entendido. Por favor, proporciona el texto.",
+          "FSL": "Texto: El odio y la discriminación hacia las",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mbayjz5",
@@ -6736,7 +7672,9 @@
           "is_submitter": false,
           "name": "t1_mbayjz5",
           "created_datetime": "2025-02-06T15:19:38+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "maltlq5",
@@ -6750,7 +7688,9 @@
           "is_submitter": false,
           "name": "t1_maltlq5",
           "created_datetime": "2025-02-02T19:30:52+00:00",
-          "ZSL": "Apropriado"
+          "ZSL": "Apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "ma91v0g",
@@ -6764,7 +7704,9 @@
           "is_submitter": false,
           "name": "t1_ma91v0g",
           "created_datetime": "2025-01-31T19:49:06+00:00",
-          "ZSL": "Por favor, proporciona el texto.\n"
+          "ZSL": "apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mams75o",
@@ -6778,7 +7720,9 @@
           "is_submitter": false,
           "name": "t1_mams75o",
           "created_datetime": "2025-02-02T22:18:26+00:00",
-          "ZSL": "Por favor, proporciona el texto que quieres que anal"
+          "ZSL": "Por favor, proporciona el texto que quieres que anal",
+          "FSL": "Texto: Totalmente de acuerdo.",
+          "CoT": "Texto: Totalmente de acuerdo"
         },
         {
           "id": "mac7dsv",
@@ -6792,7 +7736,9 @@
           "is_submitter": false,
           "name": "t1_mac7dsv",
           "created_datetime": "2025-02-01T06:48:31+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "maa21id",
@@ -6806,7 +7752,9 @@
           "is_submitter": false,
           "name": "t1_maa21id",
           "created_datetime": "2025-01-31T22:42:56+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "ma6azde",
@@ -6820,7 +7768,9 @@
           "is_submitter": false,
           "name": "t1_ma6azde",
           "created_datetime": "2025-01-31T10:42:17+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "maazvox",
@@ -6834,7 +7784,9 @@
           "is_submitter": false,
           "name": "t1_maazvox",
           "created_datetime": "2025-02-01T01:47:38+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mafz6hc",
@@ -6848,7 +7800,9 @@
           "is_submitter": false,
           "name": "t1_mafz6hc",
           "created_datetime": "2025-02-01T21:32:27+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "ma5gamv",
@@ -6862,7 +7816,9 @@
           "is_submitter": false,
           "name": "t1_ma5gamv",
           "created_datetime": "2025-01-31T05:44:38+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "ma608v7",
@@ -6876,7 +7832,9 @@
           "is_submitter": false,
           "name": "t1_ma608v7",
           "created_datetime": "2025-01-31T08:50:43+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "apropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mafzpnl",
@@ -6890,7 +7848,9 @@
           "is_submitter": false,
           "name": "t1_mafzpnl",
           "created_datetime": "2025-02-01T21:35:12+00:00",
-          "ZSL": "De acuerdo. Por favor, proporciona el texto que"
+          "ZSL": "Entendido. Por favor, proporciona el texto para",
+          "FSL": "Texto: La política es un juego y todos los",
+          "CoT": "Inapropiado"
         },
         {
           "id": "ma5ysla",
@@ -6904,7 +7864,9 @@
           "is_submitter": false,
           "name": "t1_ma5ysla",
           "created_datetime": "2025-01-31T08:35:34+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mah4e7p",
@@ -6918,7 +7880,9 @@
           "is_submitter": false,
           "name": "t1_mah4e7p",
           "created_datetime": "2025-02-02T01:13:29+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mabw1nl",
@@ -6932,7 +7896,9 @@
           "is_submitter": false,
           "name": "t1_mabw1nl",
           "created_datetime": "2025-02-01T05:14:08+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "maclca3",
@@ -6946,7 +7912,9 @@
           "is_submitter": false,
           "name": "t1_maclca3",
           "created_datetime": "2025-02-01T09:01:25+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "ma6jx0e",
@@ -6960,7 +7928,9 @@
           "is_submitter": false,
           "name": "t1_ma6jx0e",
           "created_datetime": "2025-01-31T12:02:27+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mab0yr2",
@@ -6974,7 +7944,9 @@
           "is_submitter": false,
           "name": "t1_mab0yr2",
           "created_datetime": "2025-02-01T01:53:51+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "ma80ulc",
@@ -6988,7 +7960,9 @@
           "is_submitter": false,
           "name": "t1_ma80ulc",
           "created_datetime": "2025-01-31T16:56:33+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "macgsu2",
@@ -7002,7 +7976,9 @@
           "is_submitter": false,
           "name": "t1_macgsu2",
           "created_datetime": "2025-02-01T08:16:52+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "mc4orps",
@@ -7016,7 +7992,9 @@
           "is_submitter": false,
           "name": "t1_mc4orps",
           "created_datetime": "2025-02-11T04:19:39+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "ma73qrs",
@@ -7030,7 +8008,9 @@
           "is_submitter": false,
           "name": "t1_ma73qrs",
           "created_datetime": "2025-01-31T14:11:57+00:00",
-          "ZSL": "INAPPROPRIADO"
+          "ZSL": "INAPROPRIO",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mavweat",
@@ -7044,7 +8024,9 @@
           "is_submitter": false,
           "name": "t1_mavweat",
           "created_datetime": "2025-02-04T07:10:27+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "apropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "macikh1",
@@ -7058,7 +8040,9 @@
           "is_submitter": false,
           "name": "t1_macikh1",
           "created_datetime": "2025-02-01T08:34:04+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "mav4013",
@@ -7072,7 +8056,9 @@
           "is_submitter": false,
           "name": "t1_mav4013",
           "created_datetime": "2025-02-04T03:37:55+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "malt23u",
@@ -7086,7 +8072,9 @@
           "is_submitter": false,
           "name": "t1_malt23u",
           "created_datetime": "2025-02-02T19:28:22+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "md4gsr7",
@@ -7100,7 +8088,9 @@
           "is_submitter": false,
           "name": "t1_md4gsr7",
           "created_datetime": "2025-02-16T19:38:29+00:00",
-          "ZSL": "apropiado"
+          "ZSL": "apropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "ma5iu55",
@@ -7114,7 +8104,9 @@
           "is_submitter": true,
           "name": "t1_ma5iu55",
           "created_datetime": "2025-01-31T06:05:25+00:00",
-          "ZSL": "inapropiado"
+          "ZSL": "inapropiado",
+          "FSL": "Apropiado",
+          "CoT": "Apropiado"
         },
         {
           "id": "maj1k5a",
@@ -7128,7 +8120,9 @@
           "is_submitter": false,
           "name": "t1_maj1k5a",
           "created_datetime": "2025-02-02T09:23:13+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "ma5j6gx",
@@ -7142,7 +8136,9 @@
           "is_submitter": false,
           "name": "t1_ma5j6gx",
           "created_datetime": "2025-01-31T06:08:17+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "ma6r0os",
@@ -7156,7 +8152,9 @@
           "is_submitter": false,
           "name": "t1_ma6r0os",
           "created_datetime": "2025-01-31T12:54:17+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         },
         {
           "id": "maa5tcy",
@@ -7170,7 +8168,9 @@
           "is_submitter": false,
           "name": "t1_maa5tcy",
           "created_datetime": "2025-01-31T23:02:07+00:00",
-          "ZSL": "Inapropiado"
+          "ZSL": "Inapropiado",
+          "FSL": "Inapropiado",
+          "CoT": "Inapropiado"
         }
       ]
     }
